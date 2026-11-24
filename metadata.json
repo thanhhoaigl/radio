@@ -1,0 +1,10 @@
+{
+  "name": "Remix Happy English Radio Studio",
+  "description": "Ứng dụng AI xây dựng mô hình phát thanh tiếng Anh tương tác cho học sinh tiểu học",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
